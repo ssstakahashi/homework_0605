@@ -10,3 +10,7 @@ footer {
         background-image: url(black-1072366_1920.jpg);
 
 }
+
+.container {
+        padding: 24px;
+}
